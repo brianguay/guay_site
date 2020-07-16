@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Ph.D. Candidate, Duke University
 
 # Organizations/Affiliations
 organizations:
-- name: Duke University
+- name: (last name pronounced without the u)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
