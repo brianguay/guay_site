@@ -18,7 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. Candidate at Duke University in the Department of Political Science. My research explores how citizens interact with information about politics and form preferences. I am particularly interested in the causes and consequences of political misinformation and misperceptions. My work has been published, or is forthcoming, in the American Journal of Political Science, Proceedings of the National Academy of the Sciences, and Public Opinion Quarterly.
+bio: Brian Guay is a Ph.D. Candidate at Duke University in the Department of Political Science. Brian's research explores how citizens interact with information about politics.
+
 
 ############################
 
@@ -73,4 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Brian Guay is a Ph.D. Candidate at Duke University in the Department of Political Science. Brian's research explores how citizens interact with information about politics.
+I am a Ph.D. Candidate at Duke University in the Department of Political Science. My research explores how citizens interact with information about politics and form preferences. I am particularly interested in the causes and consequences of political misinformation and misperceptions. 
+
+My work has been published, or is forthcoming, in the *American Journal of Political Science*, *Proceedings of the National Academy of the Sciences*, and *Public Opinion Quarterly*.
