@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brian Guay is aa Ph.D. Candidate at Duke University in the Department of Political Science. Brian's research explores how citizens interact with information about politics.
+bio: Brian Guay is a Ph.D. Candidate at Duke University in the Department of Political Science. Brian's research explores how citizens interact with information about politics.
 
 
 ############################
