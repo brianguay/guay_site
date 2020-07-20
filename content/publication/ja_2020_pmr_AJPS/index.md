@@ -22,7 +22,7 @@ publication_short:
 abstract: Decades of research demonstrates that conservatives have greater needs for certainty and closure than liberals. This suggests an asymmetry hypothesis- conservatives are less open to new information that conflicts with their prior beliefs and, in turn, political accountability will be lower on the right than the left. However, recent work suggests that liberals and conservatives are equally prone to politically-motivated reasoning (PMR). The present paper confronts this puzzle. First, we identify significant limitations of extant studies evaluating the asymmetry hypothesis and deploy two national survey experiments to address them. Second, we provide the first direct test of the key theoretical claim underpinning the asymmetrcay hypothesis- epistemic needs for certainty promote PMR. We find little evidence for the asymmetry hypothesis. Importantly, however, we also find no evidence that epistemic needs promote PMR. That is, while conservatives have greater needs for certainty, these needs are not a major source of political bias.  
 
 # Summary. An optional shortened abstract.
-summary: Forthcoming in the *American Journal of Political Science*
+summary: Conditionally Accepted at the *American Journal of Political Science*
 
 
 #   url: ""
