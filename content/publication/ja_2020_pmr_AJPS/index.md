@@ -26,7 +26,7 @@ summary: Conditionally Accepted at the *American Journal of Political Science.*
 
 
 #   url: ""
-url_pdf: 'pdf/GuayJohnston_2020_AJPS.pdf'
+url_pdf: 'files/GuayJohnston_2020_AJPS.pdf'
 url_code: 
 url_dataset: 
 url_poster: ''
