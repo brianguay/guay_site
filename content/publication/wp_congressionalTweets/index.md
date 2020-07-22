@@ -27,7 +27,7 @@ abstract: Legislator preferences are typically represented as measures of genera
 
 
 # Summary. An optional shortened abstract.
-summary: Under Review
+summary: Under Review.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
