@@ -1,5 +1,5 @@
 ---
-title: "The Origins of Demographic Misperceptions: Threat, Contact, and Bayesian Proportion Rescaling"
+title: "Bayesian Reasoning and Misperceptions About Population Sizes"
 authors:
 - admin
 - Tyler Marghetis
