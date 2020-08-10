@@ -21,7 +21,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Under Review
-publication_short: Under Review
+publication_short: 
 
 abstract: Misperceptions about the size of demographic groups are one of the most prevalent instances of political misinformation, yet little is understood about their origins. Extant explanations emphasize the role of perceived threat and contact in overestimating the size of minority groups, yet these accounts are limited by inconsistent empirical support. In this paper we argue that demographic misperceptions are one instance of a larger pattern of Bayesian proportion rescaling, whereby individuals systematically bias their estimates of proportions toward a prior belief, regardless of what the proportions represent. We find strong support for our theory across over 35,000 estimates and 42 estimated groups from existing studies and original data. We then evaluate our theory alongside current explanations using a rich dataset containing both national and local estimates of multiple racial groups and measures of perceived threat and contact. Our findings have implications for how researchers should interpret perceptions of politically-relevant quantities.
 

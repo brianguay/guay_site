@@ -34,7 +34,7 @@ url_video: ''
 
 
 # Summary. An optional shortened abstract.
-summary: Revise & Resubmit at *Public Opinion Quarterly*
+summary: Conditionally Accepted at *Public Opinion Quarterly*
 
 
 # Featured image
