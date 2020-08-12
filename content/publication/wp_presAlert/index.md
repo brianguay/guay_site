@@ -23,13 +23,10 @@ abstract: An extensive literature examines how partisanship divides public opini
 
 #   url: ""
 url_pdf: 'files/GuayLopez_2020_rr.pdf'
-url_code: 
-url_dataset: 
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+- name: Washington Post Coverage
+  url: https://www.washingtonpost.com/news/monkey-cage/wp/2018/10/24/new-data-show-how-americans-really-reacted-to-nationwide-cellphone-alert/
+
+
 
 
 
