@@ -24,7 +24,6 @@ abstract: An extensive literature examines how partisanship divides public opini
 #   url: ""
 url_pdf: 'files/GuayLopez_2020_rr.pdf'
 
-
 # Summary. An optional shortened abstract.
 summary: Conditionally Accepted at *Public Opinion Quarterly*
 
