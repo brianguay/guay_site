@@ -29,7 +29,7 @@ abstract: Misperceptions about the size of demographic groups are one of the mos
 summary: Under Review
 
 #   url: ""
-url_pdf: 'files/Guay_2020_demMisperceptions.pdf'
+url_pdf: 'files/Guay_2020_bayesianMisperceptions.pdf'
 url_code: 
 url_dataset: 
 url_poster: ''
