@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Candidate at Duke University in the Department of Political Science. My research explores how citizens interact with information about politics and form preferences. I am particularly interested in the causes and consequences of political misinformation and misperceptions. 
+I am a Ph.D. Candidate at Duke University in the Department of Political Science. My research focuses on American public opinion, political psychology, and methodology, with particular emphasis on the causes and consequences of political misinformation and polarization. 
 
-My work has been published, or is forthcoming, in the *American Journal of Political Science* (conditionally accepted), *Proceedings of the National Academy of the Sciences*, and *Public Opinion Quarterly*.
+My work has been published in the *American Journal of Political Science* (conditionally accepted), *Proceedings of the National Academy of the Sciences*, and *Public Opinion Quarterly*.
