@@ -24,10 +24,9 @@ bio: Brian Guay is a Ph.D. Candidate at Duke University in the Department of Pol
 ############################
 
 interests:
-- American Politics
-- Political Behavior
-- Public Opinion
-- Political Misinformation
+- American Public Opinion
+- Political Psychology
+- Political Methodology
 
 education:
   courses:
@@ -74,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Candidate at Duke University in the Department of Political Science. My research focuses on American public opinion, political psychology, and methodology, with particular emphasis on the causes and consequences of political misinformation and polarization. 
+I am a Ph.D. Candidate at Duke University in the Department of Political Science. My research focuses on American public opinion, political psychology, social media, and methodology, with a particular emphasis on misinformation and polarization. 
 
 My work has been published in the *American Journal of Political Science* (conditionally accepted), *Proceedings of the National Academy of the Sciences*, and *Public Opinion Quarterly*.
