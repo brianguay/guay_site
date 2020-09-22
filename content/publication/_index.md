@@ -6,11 +6,13 @@ type: "blank"
 
 ## **Publications**
 
-7\. Guay, B. & Johnston, C. [Ideological Asymmetries and the Determinants of Politically Motivated Reasoning.](https://www.brianguay.com/files/GuayJohnston_2020_AJPS.pdf) Conditionally accepted at the *American Journal of Political Science.*
+8\. Guay, B. & Johnston, C. [Ideological Asymmetries and the Determinants of Politically Motivated Reasoning.](https://www.brianguay.com/files/GuayJohnston_2020_AJPS.pdf) Forthcoming at the *American Journal of Political Science.*
 
-6\. Guay, B. & Lopez, J. [``Partisan Bias in Bipartisan Places? A Field Experiment Measuring Attitudes Toward the Presidential Alert.''](https://www.brianguay.com/files/GuayLopez_2020_rr.pdf) Conditionally accepted at *Public Opinion Quarterly.*
+7\. Guay, B. & Lopez, J. [``Partisan Bias in Bipartisan Places? A Field Experiment Measuring Attitudes Toward the Presidential Alert.''](https://www.brianguay.com/files/GuayLopez_2020_rr.pdf) Conditionally accepted at *Public Opinion Quarterly.*
 
-5\. Valentino, N., Zirkhov, K., Hillygus, D.S., & Guay, B [The Political Consequences of Personality Biases in Online Panel Surveys.''](https://www.brianguay.com/publication/ja_2020_anespersonality_poq/) Forthcoming in *Public Opinion Quarterly.*
+6\. Valentino, N., Zirkhov, K., Hillygus, D.S., & Guay, B [The Political Consequences of Personality Biases in Online Panel Surveys.''](https://www.brianguay.com/publication/ja_2020_anespersonality_poq/) Forthcoming in *Public Opinion Quarterly.*
+
+5\. Spell, G., Guay, B., Hillygus, D.S., & Carin, L. [``An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets.''](https://www.brianguay.com/files/Spell_2020_emnlp.pdf) *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.*
 
 4\. Bail, C., Guay, B., Maloney, E., Combs, A., Hillygus, D.S., Merhout, F., Freelon, D., and Volfovsky, A. [``Assessing the Russian Internet Research Agency's Impact on the Political Attitudes and Behaviors of American Twitter Users in Late 2017."](https://www.pnas.org/content/early/2019/11/20/1906420116) *Proceedings of the National Academy of Sciences.* (2019).
 
@@ -23,8 +25,6 @@ type: "blank"
 
 
 ## **Under Review**
-
-2\. Spell, G., Guay, B., Hillygus, D.S., & Carin, L. ``An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets.'' (*Revise and Resubmit*).
 
 1\. Guay, B., Marghetis, T., Wong, C. & Landy, D. [``Bayesian Origins of Demographic Misperceptions.''](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
 
