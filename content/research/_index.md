@@ -6,7 +6,7 @@ type: "blank"
 
 ## **Publications**
 
-7\. **Guay, B.** & Johnston, C. ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](https://www.brianguay.com/files/GuayJohnston_2020_AJPS.pdf) *American Journal of Political Science.* (conditionally accepted).
+7\. **Guay, B.** & Johnston, C. ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](https://www.brianguay.com/files/GuayJohnston_2020_AJPS.pdf) *American Journal of Political Science.*  (forthcoming).
 
 6\. **Guay, B.** & Lopez, J. ["Partisan Bias in Bipartisan Places? A Field Experiment Measuring Attitudes Toward the Presidential Alert."](https://www.brianguay.com/files/GuayLopez_2020_rr.pdf) *Public Opinion Quarterly* (conditionally accepted).
 
