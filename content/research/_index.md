@@ -10,10 +10,10 @@ type: "blank"
 
 7\. **Guay, B.** & Lopez, J. ["Partisan Bias in Bipartisan Places? A Field Experiment Measuring Attitudes Toward the Presidential Alert."](https://www.brianguay.com/files/GuayLopez_2020_rr.pdf) *Public Opinion Quarterly* (conditionally accepted).
 
-6\. Valentino, N., Zirkhov, K., Hillygus, D.S., & **Guay, B.** ["The Political Consequences of Personality Biases in Online Panel Surveys."](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfaa026/6056667) *Public Opinion Quarterly.* (2020.
+6\. Valentino, N., Zirkhov, K., Hillygus, D.S., & **Guay, B.** ["The Political Consequences of Personality Biases in Online Panel Surveys."](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfaa026/6056667) *Public Opinion Quarterly.* (2020).
 
 5\. Spell, G., **Guay, B.**, Hillygus, D.S., & Carin, L. ["An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets."](https://www.brianguay.com/files/Spell_2020_emnlp.pdf) *Proceedings of the
-2020 Conference on Empirical Methods in Natural Language Processing.* (2020.
+2020 Conference on Empirical Methods in Natural Language Processing.* (2020).
 
 4\. Bail, C., **Guay, B.**, Maloney, E., Combs, A., Hillygus, D.S., Merhout, F., Freelon, D., and Volfovsky, A. ["Assessing the Russian Internet Research Agency's Impact on the Political Attitudes and Behaviors of American Twitter Users in Late 2017."](https://www.pnas.org/content/early/2019/11/20/1906420116) *Proceedings of the National Academy of Sciences.* (2020).
 
