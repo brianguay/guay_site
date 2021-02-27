@@ -25,9 +25,6 @@ type: "blank"
 
 
 
-## **Under Review**
-
-1\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Bayesian Origins of Demographic Misperceptions."](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
 
 ## **Other Publications**
 
@@ -38,6 +35,8 @@ type: "blank"
 
 ## **Working Papers**
 
+
+5\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Bayesian Origins of Demographic Misperceptions."](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
 
 4\. **Guay, B.** "The Prevalence and Consequences of Certainty in Political Misperceptions." 
 
