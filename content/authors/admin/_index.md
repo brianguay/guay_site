@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Candidate at Duke University in the Department of Political Science. My research focuses on political psychology, American public opinion, social media, and methodology, with a particular emphasis on misinformation and polarization. 
+I am a Ph.D. Candidate in the Department of Political Science at [Duke University](https://duke.edu/) and member of the [Duke Polarization Lab](https://www.polarizationlab.com/). My research is at the intersection of American public opinion, political communication, and methodology, with a specific focus on misinformation and polarization. I draw on theories from cognitive and social psychology and use a wide range of methods, including field experiments, surveys, and natural language processing with social media data. 
 
-My work has been published in the *American Journal of Political Science*, *Proceedings of the National Academy of the Sciences*, and *Public Opinion Quarterly*.
+My work has been published in the [*American Journal of Political Science*](https://www.brianguay.com/files/GuayJohnston_2020_AJPS.pdf), [*Proceedings of the National Academy of the Sciences*](https://www.pnas.org/content/117/1/243/tab-figures-data), and *Public Opinion Quarterly*[here](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfaa026/6056667) and [here](https://www.brianguay.com/files/GuayLopez_2020_rr.pdf).
