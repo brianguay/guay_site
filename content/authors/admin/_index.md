@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Political Science
     institution: Duke University
-    year: 2021 (Expected)
+    year: 2021
   - course: MA in Political Science
     institution: Duke University
     year: 2018
@@ -73,6 +73,8 @@ user_groups:
 - Visitors
 ---
 
-I am a graduating (May 2021) Ph.D. candidate in the Department of Political Science at [Duke University](https://duke.edu/) and member of the [Duke Polarization Lab](https://www.polarizationlab.com/) and [Duke Initiative on Survey Methodology](https://dism.duke.edu/). My research is at the intersection of political behavior and methodology, with a specific focus on misinformation and polarization. I draw on theories from cognitive and social psychology and use a wide range of methods, including field experiments, surveys, and natural language processing with social media data. 
+Beginning in July 2021, I will be a postdoctoral research associate at [MIT](https://www.mit.edu/). I received my Ph.D. from the Department of Political Science at [Duke University](https://duke.edu/) in the spring of 2021, where I was a member of the [Duke Polarization Lab](https://www.polarizationlab.com/) and [Duke Initiative on Survey Methodology](https://dism.duke.edu/). 
+
+My research is at the intersection of political behavior and methodology, with a specific focus on misinformation and polarization. I draw on theories from cognitive and social psychology and use a wide range of methods, including field experiments, surveys, and natural language processing with social media data. 
 
 My work has been published in the [*American Journal of Political Science*](https://www.brianguay.com/files/GuayJohnston_2020_AJPS.pdf), [*Proceedings of the National Academy of the Sciences*](https://www.pnas.org/content/117/1/243/tab-figures-data), and *Public Opinion Quarterly* [(here](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfaa026/6056667) and [here](https://www.brianguay.com/files/GuayLopez_2020_rr.pdf)).
