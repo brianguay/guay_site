@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate, Duke University
+role: Postdoctoral Associate, MIT
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brian Guay is a Ph.D. Candidate at Duke University in the Department of Political Science.
+bio: Brian Guay is a Postdoctoral Associate at MIT.
 
 
 ############################
@@ -73,8 +73,8 @@ user_groups:
 - Visitors
 ---
 
-Beginning in July 2021, I will be a postdoctoral research associate at [MIT](https://www.mit.edu/). I received my Ph.D. from the Department of Political Science at [Duke University](https://duke.edu/) in the spring of 2021, where I was a member of the [Duke Polarization Lab](https://www.polarizationlab.com/) and [Duke Initiative on Survey Methodology](https://dism.duke.edu/). 
+I am a postdoctoral research associate at [MIT](https://www.mit.edu/) in the [Department of Political Science](https://polisci.mit.edu/) \& [Sloan School of Management](https://mitsloan.mit.edu/). I received my Ph.D. from the Department of Political Science at [Duke University](https://duke.edu/) in the spring of 2021, where I was a member of the [Duke Polarization Lab](https://www.polarizationlab.com/) and [Duke Initiative on Survey Methodology](https://dism.duke.edu/). 
 
 My research is at the intersection of political behavior and methodology, with a specific focus on misinformation and polarization. I draw on theories from cognitive and social psychology and use a wide range of methods, including field experiments, surveys, and natural language processing with social media data. 
 
-My work has been published in the [*American Journal of Political Science*](https://www.brianguay.com/files/GuayJohnston_2020_AJPS.pdf), [*Proceedings of the National Academy of the Sciences*](https://www.pnas.org/content/117/1/243/tab-figures-data), and *Public Opinion Quarterly* [(here](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfaa026/6056667) and [here](https://www.brianguay.com/files/GuayLopez_2020_rr.pdf)).
+My work has been published in the [*American Journal of Political Science*](http://doi.org/10.1111/ajps.12624), [*Proceedings of the National Academy of the Sciences*](https://www.pnas.org/content/117/1/243/tab-figures-data), and *Public Opinion Quarterly* [(here](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfaa026/6056667) and [here](https://www.brianguay.com/files/GuayLopez_2020_rr.pdf)).
