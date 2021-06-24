@@ -8,7 +8,7 @@ type: "blank"
 
 8\. **Guay, B.** & Lopez, J. ["Partisan Bias in Bipartisan Places? A Field Experiment Measuring Attitudes Toward the Presidential Alert."](https://www.brianguay.com/files/GuayLopez_2020_rr.pdf) *Public Opinion Quarterly* (forthcoming).
 
-7\. **Guay, B.** & Johnston, C. ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](https://www.brianguay.com/files/GuayJohnston_2020_AJPS.pdf) *American Journal of Political Science.* (2021)
+7\. **Guay, B.** & Johnston, C. ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](http://doi.org/10.1111/ajps.12624) *American Journal of Political Science.* (2021). [Ungated version](https://www.brianguay.com/files/GuayJohnston_2020_AJPS.pdf)
 
 6\. Valentino, N., Zirkhov, K., Hillygus, D.S., & **Guay, B.** ["The Political Consequences of Personality Biases in Online Panel Surveys."](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfaa026/6056667) *Public Opinion Quarterly.* (2020).
 
