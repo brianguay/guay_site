@@ -77,4 +77,4 @@ I am a postdoctoral research associate at [MIT](https://www.mit.edu/) in the [De
 
 My research is at the intersection of political behavior and methodology, with a specific focus on misinformation and polarization. I draw on theories from cognitive and social psychology and use a wide range of methods, including field experiments, surveys, and natural language processing with social media data. 
 
-My work has been published in the [*American Journal of Political Science*](http://doi.org/10.1111/ajps.12624), [*Proceedings of the National Academy of the Sciences*](https://www.pnas.org/content/117/1/243/tab-figures-data), and *Public Opinion Quarterly* [(here](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfaa026/6056667) and [here](https://www.brianguay.com/files/GuayLopez_2020_rr.pdf)).
+My work has been published in the [*American Journal of Political Science*](http://doi.org/10.1111/ajps.12624), [*Proceedings of the National Academy of the Sciences*](https://www.pnas.org/content/117/1/243/tab-figures-data), and *Public Opinion Quarterly* [(here](https://doi.org/10.1093/poq/nfab010) and [here](https://doi.org/10.1093/poq/nfaa026)).
