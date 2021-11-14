@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Associate, MIT
+role: Postdoctoral Research Associate, MIT
 
 # Organizations/Affiliations
 organizations:
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:brian.guay@duke.edu".
+  link: '#contact'  # For a direct email link, use "mailto:bguay@mit.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/brianmguay
