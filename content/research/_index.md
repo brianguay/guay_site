@@ -37,15 +37,16 @@ type: "blank"
 
 ## **Under Review**
 
-3. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Bayesian Origins of Demographic Misperceptions."](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
+3\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Rethinking Perceived Threat & Contact:  Misperceptions About the Size of Groups in Society"](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
 
-2. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions.](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf)
+2\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions.](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf)
 
 1\. Bail, C., Combs, A., **Guay, B.** Hillygus, D.S., Merhout, F., Tierney, G., Volfovsky, A. "Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."
 
 ## **Working Papers** 
 
 4\. **Guay, B.**, Berinsky, A., & Rand, D. "I’m Sure I’m Right: Identifying the Causal Effect of Confidence in Political Knowledge."
+
 3\. **Guay, B.** "The Prevalence and Consequences of Certainty in Political Misperceptions." 
 
 2\. **Guay, B.**, Hillygus, D.S., Valentino, N., & Zhirkov, K. "Opportunities and Challenges of Conducting Large-Scale Political Surveys Online." 
