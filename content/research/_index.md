@@ -35,17 +35,23 @@ type: "blank"
 
 1\. Hillygus, D.S., & **Guay, B.** 2016. ["The Virtues and Limitations of Election Polling in the United States."](https://sites.duke.edu/hillygus/files/2017/04/2016.HillygusGuay.Seminar.pdf) *Seminar.* (2016).
 
-## **Working Papers**
+## **Under Review**
 
+3. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Bayesian Origins of Demographic Misperceptions."](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
 
-5\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Bayesian Origins of Demographic Misperceptions."](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
-
-4\. **Guay, B.** "The Prevalence and Consequences of Certainty in Political Misperceptions." 
-
-3\. **Guay, B.**, Hillygus, D.S., Valentino, N., & Zhirkov, K. "Opportunities and Challenges of Conducting Large-Scale Political Surveys Online." 
-
-2\. Chen, H. & **Guay, B.** "Angry Birds: Measuring Affective Polarization On Twitter Using Survey-Matched Tweets." 
+2. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions.](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf)
 
 1\. Bail, C., Combs, A., **Guay, B.** Hillygus, D.S., Merhout, F., Tierney, G., Volfovsky, A. "Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."
+
+## **Working Papers** 
+
+4\. **Guay, B.**, Berinsky, A., & Rand, D. "I’m Sure I’m Right: Identifying the Causal Effect of Confidence in Political Knowledge."
+3\. **Guay, B.** "The Prevalence and Consequences of Certainty in Political Misperceptions." 
+
+2\. **Guay, B.**, Hillygus, D.S., Valentino, N., & Zhirkov, K. "Opportunities and Challenges of Conducting Large-Scale Political Surveys Online." 
+
+1\. Chen, H. & **Guay, B.** "Angry Birds: Measuring Affective Polarization On Twitter Using Survey-Matched Tweets." 
+
+
 
 
