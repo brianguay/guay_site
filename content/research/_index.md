@@ -39,7 +39,8 @@ type: "blank"
 
 3\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Rethinking Perceived Threat & Contact:  Misperceptions About the Size of Groups in Society"](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
 
-2\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions.](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf)
+2\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions.](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf) [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
+-
 
 1\. Bail, C., Combs, A., **Guay, B.** Hillygus, D.S., Merhout, F., Tierney, G., Volfovsky, A. "Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."
 
