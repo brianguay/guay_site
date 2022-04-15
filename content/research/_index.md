@@ -8,16 +8,23 @@ type: "blank"
 
 
 
-8\. **Guay, B.** & Johnston, C. (2021). ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](http://doi.org/10.1111/ajps.12624) *American Journal of Political Science.* [[Ungated version]](https://www.brianguay.com/files/GuayJohnston_2021_AJPS.pdf) [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1408061603073908736)
+8\. **Guay, B.** & Johnston, C. (2021). ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](http://doi.org/10.1111/ajps.12624) *American Journal of Political Science.* 
+- [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1408061603073908736)
+- [[Ungated version]](https://www.brianguay.com/files/GuayJohnston_2021_AJPS.pdf) 
 
-7\. **Guay, B.** & Lopez, J. (2021). ["Partisan Bias in Bipartisan Places? A Field Experiment Measuring Attitudes Toward the Presidential Alert."](https://doi.org/10.1093/poq/nfab010) *Public Opinion Quarterly.* [[Ungated version]](https://www.brianguay.com/files/GuayLopez_2021_POQ.pdf) [[WaPo Monkey Cage coverage]](https://www.washingtonpost.com/news/monkey-cage/wp/2018/10/24/new-data-show-how-americans-really-reacted-to-nationwide-cellphone-alert/) [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1430171924190072844)
+7\. **Guay, B.** & Lopez, J. (2021). ["Partisan Bias in Bipartisan Places? A Field Experiment Measuring Attitudes Toward the Presidential Alert."](https://doi.org/10.1093/poq/nfab010) *Public Opinion Quarterly.*
+- [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1430171924190072844)
+- [[Washington Post Monkey Cage coverage]](https://www.washingtonpost.com/news/monkey-cage/wp/2018/10/24/new-data-show-how-americans-really-reacted-to-nationwide-cellphone-alert/) 
+- [[Ungated version]](https://www.brianguay.com/files/GuayLopez_2021_POQ.pdf) 
+
 
 6\. Valentino, N., Zirkhov, K., Hillygus, D.S., & **Guay, B.** (2020). ["The Political Consequences of Personality Biases in Online Panel Surveys."](https://doi.org/10.1093/poq/nfaa026) *Public Opinion Quarterly.* 
 
 5\. Spell, G., **Guay, B.**, Hillygus, D.S., & Carin, L. (2020). ["An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets."](https://aclanthology.org/2020.emnlp-main.46.pdf) *Proceedings of the
 2020 Conference on Empirical Methods in Natural Language Processing.*
 
-4\. Bail, C., **Guay, B.**, Maloney, E., Combs, A., Hillygus, D.S., Merhout, F., Freelon, D., & Volfovsky, A. (2020). ["Assessing the Russian Internet Research Agency's Impact on the Political Attitudes and Behaviors of American Twitter Users in Late 2017."](https://www.pnas.org/content/early/2019/11/20/1906420116) *Proceedings of the National Academy of Sciences.* [[Twitter Thread]](https://mobile.twitter.com/chris_bail/status/1199058772515262466)
+4\. Bail, C., **Guay, B.**, Maloney, E., Combs, A., Hillygus, D.S., Merhout, F., Freelon, D., & Volfovsky, A. (2020). ["Assessing the Russian Internet Research Agency's Impact on the Political Attitudes and Behaviors of American Twitter Users in Late 2017."](https://www.pnas.org/content/early/2019/11/20/1906420116) *Proceedings of the National Academy of Sciences.* 
+- [[Twitter Thread]](https://mobile.twitter.com/chris_bail/status/1199058772515262466)
 
 3\. Landy, D., **Guay, B.** & Marghetis, T. (2018). ["Bias and Ignorance in Demographic Perception."](https://link.springer.com/article/10.3758/s13423-017-1360-2) *Psychonomic Bulletin & Review.*
 
@@ -39,8 +46,9 @@ type: "blank"
 
 3\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Rethinking Perceived Threat & Contact:  Misperceptions About the Size of Groups in Society"](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
 
-2\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions.](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf) [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
--
+2\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions."](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf) 
+- [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
+
 
 1\. Bail, C., Combs, A., **Guay, B.** Hillygus, D.S., Merhout, F., Tierney, G., Volfovsky, A. "Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."
 
