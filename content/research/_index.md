@@ -20,11 +20,12 @@ type: "blank"
 
 6\. Valentino, N., Zirkhov, K., Hillygus, D.S., & **Guay, B.** (2020). ["The Political Consequences of Personality Biases in Online Panel Surveys."](https://doi.org/10.1093/poq/nfaa026) *Public Opinion Quarterly.* 
 
-5\. Spell, G., **Guay, B.**, Hillygus, D.S., & Carin, L. (2020). ["An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets."](https://aclanthology.org/2020.emnlp-main.46.pdf) *Proceedings of the
+5\. Bail, C., **Guay, B.**, Maloney, E., Combs, A., Hillygus, D.S., Merhout, F., Freelon, D., & Volfovsky, A. (2020). ["Assessing the Russian Internet Research Agency's Impact on the Political Attitudes and Behaviors of American Twitter Users in Late 2017."](https://www.pnas.org/content/early/2019/11/20/1906420116) *Proceedings of the National Academy of Sciences.* 
+- [[Twitter Thread]](https://mobile.twitter.com/chris_bail/status/1199058772515262466)
+
+4\. Spell, G., **Guay, B.**, Hillygus, D.S., & Carin, L. (2020). ["An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets."](https://aclanthology.org/2020.emnlp-main.46.pdf) *Proceedings of the
 2020 Conference on Empirical Methods in Natural Language Processing.*
 
-4\. Bail, C., **Guay, B.**, Maloney, E., Combs, A., Hillygus, D.S., Merhout, F., Freelon, D., & Volfovsky, A. (2020). ["Assessing the Russian Internet Research Agency's Impact on the Political Attitudes and Behaviors of American Twitter Users in Late 2017."](https://www.pnas.org/content/early/2019/11/20/1906420116) *Proceedings of the National Academy of Sciences.* 
-- [[Twitter Thread]](https://mobile.twitter.com/chris_bail/status/1199058772515262466)
 
 3\. Landy, D., **Guay, B.** & Marghetis, T. (2018). ["Bias and Ignorance in Demographic Perception."](https://link.springer.com/article/10.3758/s13423-017-1360-2) *Psychonomic Bulletin & Review.*
 
