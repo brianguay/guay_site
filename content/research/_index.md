@@ -38,7 +38,6 @@ type: "blank"
 
 ## **Other Publications**
 
-
 2\. Hillygus, D.S., & **Guay, B.** (2018). ["Online Public Opinion Polling."](https://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0250.xml) *Oxford Bibliographies in Political Science.* 
 
 1\. Hillygus, D.S., & **Guay, B.** 2016. ["The Virtues and Limitations of Election Polling in the United States."](https://sites.duke.edu/hillygus/files/2017/04/2016.HillygusGuay.Seminar.pdf) *Seminar.* (2016).
@@ -46,9 +45,11 @@ type: "blank"
 ## **Under Review**
 
 3\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Rethinking Perceived Threat & Contact:  Misperceptions About the Size of Groups in Society"](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
+- [[YouGov Coverage]](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population) 
 
 2\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions."](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf) 
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
+- [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
 
 
 1\. Bail, C., Combs, A., **Guay, B.** Hillygus, D.S., Merhout, F., Tierney, G., Volfovsky, A. "Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."
