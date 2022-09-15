@@ -56,9 +56,10 @@ type: "blank"
 
 ## **Working Papers** 
 
-4\. **Guay, B.**, Berinsky, A., & Rand, D. "I’m Sure I’m Right: Identifying the Causal Effect of Confidence in Political Knowledge."
+4\. **Guay, B.** [``Misinformed or Uninformed? The Prevalence and Consequences of Certainty in Political Misperceptions.''](https://www.brianguay.com/files/Guay_2022_misinformed.pdf)
 
-3\. **Guay, B.** "The Prevalence and Consequences of Certainty in Political Misperceptions." 
+3\. **Guay, B.**, Berinsky, A., & Rand, D. ``I’m Sure I’m Right But So What?: The Consequences of Excessive Confidence in Political Knowledge.'' (Presented at APSA in 2022)
+
 
 2\. **Guay, B.**, Hillygus, D.S., Valentino, N., & Zhirkov, K. "Opportunities and Challenges of Conducting Large-Scale Political Surveys Online." 
 
