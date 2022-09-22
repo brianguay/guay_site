@@ -44,22 +44,22 @@ type: "blank"
 
 ## **Under Review**
 
-3\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Rethinking Perceived Threat & Contact:  Misperceptions About the Size of Groups in Society"](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
+4\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Rethinking Perceived Threat & Contact:  Misperceptions About the Size of Groups in Society"](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
 - [[YouGov Coverage]](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population) 
 
-2\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions."](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf) 
+3\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions."](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf) 
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
 - [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
 
+2\. **Guay, B.**, Berinsky, A., \& Rand., D. [``How To Think About the Effectiveness of Misinformation Interventions''](https://www.brianguay.com/files/Guay_2022_interventions.pdf)
 
-1\. Bail, C., Combs, A., **Guay, B.** Hillygus, D.S., Merhout, F., Tierney, G., Volfovsky, A. "Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."
+1\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf)
 
 ## **Working Papers** 
 
 4\. **Guay, B.** [``Misinformed or Uninformed? The Prevalence and Consequences of Certainty in Political Misperceptions.''](https://www.brianguay.com/files/Guay_2022_misinformed.pdf)
 
 3\. **Guay, B.**, Berinsky, A., & Rand, D. ``I’m Sure I’m Right But So What?: The Consequences of Excessive Confidence in Political Knowledge.'' (Presented at APSA in 2022)
-
 
 2\. **Guay, B.**, Hillygus, D.S., Valentino, N., & Zhirkov, K. "Opportunities and Challenges of Conducting Large-Scale Political Surveys Online." 
 
