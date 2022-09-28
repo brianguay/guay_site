@@ -22,6 +22,7 @@ type: "blank"
 
 5\. Bail, C., **Guay, B.**, Maloney, E., Combs, A., Hillygus, D.S., Merhout, F., Freelon, D., & Volfovsky, A. (2020). ["Assessing the Russian Internet Research Agency's Impact on the Political Attitudes and Behaviors of American Twitter Users in Late 2017."](https://www.pnas.org/content/early/2019/11/20/1906420116) *Proceedings of the National Academy of Sciences.* 
 - [[Twitter Thread]](https://mobile.twitter.com/chris_bail/status/1199058772515262466)
+- Coverage in [[Forbes]](https://www.forbes.com/sites/seanlawson/2019/12/06/what-if-russian-disinformation-isnt-as-effective-as-we-thought/?sh=1e2db5564e8b), [[Inverse]](https://www.inverse.com/article/61215-russian-twitter-bots-ira-effect), and [[Yahoo News]](https://news.yahoo.com/study-finds-no-evidence-russian-175019198.html)
 
 4\. Spell, G., **Guay, B.**, Hillygus, D.S., & Carin, L. (2020). ["An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets."](https://aclanthology.org/2020.emnlp-main.46.pdf) *Proceedings of the
 2020 Conference on Empirical Methods in Natural Language Processing.*
