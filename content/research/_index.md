@@ -52,7 +52,7 @@ type: "blank"
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
 - [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
 
-2\. **Guay, B.**, Berinsky, A., \& Rand., D. [``How To Think About the Effectiveness of Misinformation Interventions''](https://www.brianguay.com/files/Guay_2022_interventions.pdf)
+2\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. [``How To Think About the Effectiveness of Misinformation Interventions''](https://www.brianguay.com/files/Guay_2022_interventions.pdf)
 
 1\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf)
 
