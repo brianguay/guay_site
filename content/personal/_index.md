@@ -7,7 +7,7 @@ type: "blank"
 ## About Me
 
 
-When I'm not working, I'm outside hiking, playing with my dog, geeking out about space, or finding old typewriters to add to my collection. I grew up near Boston and have lived in Washington DC, Richmond VA, and Durham NC. Go Sox! Go Spiders!**
+When I'm not working, I'm outside hiking, playing with my dog, geeking out about space, or finding old typewriters to add to my collection. I grew up near Boston and have lived in Washington DC, Richmond VA, and Durham NC. Go Sox! Go [Spiders](https://urnow.richmond.edu/spiderpride/article/-/14840/fear-the-spiders-when-your-school-has-the-no.-1-most-frightening-mascot-.html)!
 
 Some pics of my favorite hikes, typewriters, and dog (Dobby):
 
@@ -21,6 +21,9 @@ Dobby
 
 ![Dobby](/dobby.jpeg)
 ![Dobby](/dobby_lake.JPG)
+
+Me in the spidee suit. Go Richmond!
+![Webstur](/webstur.jpeg)
 
 Yosemite
 ![Yosemite](/yosemite.jpeg)
