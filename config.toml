@@ -26,8 +26,8 @@ theme = "academic"
 # Get last modified date for content from Git?
 enableGitInfo = false
 
-# Google Analytics (pasted from prevous version)
-googleAnalytics = "UA-146505108-2"
+# Google Analytics (pasted from previous version)
+googleAnalytics = ""
 
 
 # Default language to use (if you setup multilingual support)
