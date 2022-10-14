@@ -22,7 +22,7 @@ Dobby
 ![Dobby](/dobby.jpeg)
 ![Dobby](/dobby_lake.JPG)
 
-Me in the spidee suit. Go Richmond Spiders!
+Me in the spidey suit. Go Richmond Spiders!
 ![Webstur](/webstur.jpeg)
 
 Yosemite
