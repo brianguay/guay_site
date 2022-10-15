@@ -48,11 +48,6 @@ type: "blank"
 
 1\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf)
 
-## **Other Publications**
-
-2\. Hillygus, D.S., & **Guay, B.** (2018). ["Online Public Opinion Polling."](https://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0250.xml) *Oxford Bibliographies in Political Science.* 
-
-1\. Hillygus, D.S., & **Guay, B.** 2016. ["The Virtues and Limitations of Election Polling in the United States."](https://sites.duke.edu/hillygus/files/2017/04/2016.HillygusGuay.Seminar.pdf) *Seminar.* (2016).
 
 ## **Working Papers** 
 
@@ -66,6 +61,13 @@ type: "blank"
 
 1\. Chen, H. & **Guay, B.** "Angry Birds: Measuring Affective Polarization On Twitter Using Survey-Matched Tweets." 
 
+
+
+## **Other Publications**
+
+2\. Hillygus, D.S., & **Guay, B.** (2018). ["Online Public Opinion Polling."](https://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0250.xml) *Oxford Bibliographies in Political Science.* 
+
+1\. Hillygus, D.S., & **Guay, B.** 2016. ["The Virtues and Limitations of Election Polling in the United States."](https://sites.duke.edu/hillygus/files/2017/04/2016.HillygusGuay.Seminar.pdf) *Seminar.* (2016).
 
 
 
