@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Associate, MIT
+role: Postdoctoral Researcher, MIT
 
 # Organizations/Affiliations
 organizations:
