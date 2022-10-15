@@ -31,7 +31,7 @@ When I'm not working, I'm outside hiking, playing with my dog Dobby, geeking out
 ![Yosemite](/yosemite.jpeg)
 
 
-
+  
 
 
 
