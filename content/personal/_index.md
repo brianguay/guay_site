@@ -27,7 +27,7 @@ When I'm not working, I'm outside hiking, playing with my dog Dobby, geeking out
 **Me in the spidey suit. Go Richmond Spiders!**
 ![Webstur](/webstur.jpeg)
   
-**Yosemite**
+**Yosemite** 
 ![Yosemite](/yosemite.jpeg)
 
 
