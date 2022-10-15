@@ -35,14 +35,6 @@ type: "blank"
 1\. **Guay, B.**, Chandler, C., Erkulwater, J., and Landy, D. (2016). ["Testing the Effectiveness of a Number-based Classroom Exercise."](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/testing-the-effectiveness-of-a-numberbased-classroom-exercise/E3F444F2E31340F7E63A833573B65AEC) *PS: Political Science & Politics.* 
 
 
-
-
-## **Other Publications**
-
-2\. Hillygus, D.S., & **Guay, B.** (2018). ["Online Public Opinion Polling."](https://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0250.xml) *Oxford Bibliographies in Political Science.* 
-
-1\. Hillygus, D.S., & **Guay, B.** 2016. ["The Virtues and Limitations of Election Polling in the United States."](https://sites.duke.edu/hillygus/files/2017/04/2016.HillygusGuay.Seminar.pdf) *Seminar.* (2016).
-
 ## **Under Review**
 
 4\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Rethinking Perceived Threat & Contact:  Misperceptions About the Size of Groups in Society"](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
@@ -55,6 +47,12 @@ type: "blank"
 2\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. [``How To Think About the Effectiveness of Misinformation Interventions''](https://www.brianguay.com/files/Guay_2022_interventions.pdf)
 
 1\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf)
+
+## **Other Publications**
+
+2\. Hillygus, D.S., & **Guay, B.** (2018). ["Online Public Opinion Polling."](https://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0250.xml) *Oxford Bibliographies in Political Science.* 
+
+1\. Hillygus, D.S., & **Guay, B.** 2016. ["The Virtues and Limitations of Election Polling in the United States."](https://sites.duke.edu/hillygus/files/2017/04/2016.HillygusGuay.Seminar.pdf) *Seminar.* (2016).
 
 ## **Working Papers** 
 
