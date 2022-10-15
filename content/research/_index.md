@@ -56,7 +56,9 @@ type: "blank"
 
 ## **Working Papers** 
 
-4\. **Guay, B.** [``Misinformed or Uninformed? The Prevalence and Consequences of Certainty in Political Misperceptions.''](https://www.brianguay.com/files/Guay_2022_misinformed.pdf)
+5\. **Guay, B.** [``Misinformed or Uninformed? The Prevalence and Consequences of Certainty in Political Misperceptions.''](https://www.brianguay.com/files/Guay_2022_misinformed.pdf)
+
+4\. **Guay, B.** “Numeracy and the Effect of Quantitative Information on Public Opinion”
 
 3\. **Guay, B.**, Berinsky, A., & Rand, D. ``I’m Sure I’m Right But So What?: The Consequences of Excessive Confidence in Political Knowledge.'' (Presented at APSA in 2022)
 
