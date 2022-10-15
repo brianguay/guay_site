@@ -18,7 +18,7 @@ When I'm not working, I'm outside hiking, playing with my dog Dobby, geeking out
 ![Typewriters](/typewriters.jpeg)
 
 *Dobby*
-
+ 
 ![Dobby](/dobby.jpeg)
 ![Dobby](/dobby_lake.JPG)
 
