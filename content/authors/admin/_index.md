@@ -14,7 +14,7 @@ role: Postdoctoral Researcher, MIT
 
 # Organizations/Affiliations
 organizations:
-- name: (last name pronounced w/out the u)
+- name: (last name pronounced 'Gay')
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
