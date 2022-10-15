@@ -7,9 +7,8 @@ type: "blank"
 ## About Me
 
 
-When I'm not working, I'm outside hiking, playing with my dog, geeking out about space, or finding old typewriters to add to my collection. I grew up near Boston and have lived in Washington DC, Richmond VA, and Durham NC. Go Sox!
+When I'm not working, I'm outside hiking, playing with my dog Dobby, geeking out about space, or finding old typewriters to add to my collection. I grew up near Boston and have lived in Washington DC, Richmond VA, and Durham NC. Go Sox!
 
-Some pics of my favorite hikes, typewriters, and dog (Dobby):
 
 Olivetti Lettera 1963 typewriter in for cleaning
 ![Olivetti Lettera (1963)](/olivetti_lettera_1963.jpeg)
