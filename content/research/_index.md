@@ -59,7 +59,7 @@ type: "blank"
 
 2\. **Guay, B.**, Hillygus, D.S., Valentino, N., & Zhirkov, K. "Opportunities and Challenges of Conducting Large-Scale Political Surveys Online." 
 
-1\. Chen, H. & **Guay, B.** "Angry Birds: Measuring Affective Polarization On Twitter Using Survey-Matched Tweets." 
+1\. Chen, H. & **Guay, B.** "Angry Birds: Measuring Affective Polarization On Twitter Using Survey-Matched Tweets. " 
 
 
 
