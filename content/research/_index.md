@@ -34,19 +34,20 @@ type: "blank"
 
 1\. **Guay, B.**, Chandler, C., Erkulwater, J., and Landy, D. (2016). ["Testing the Effectiveness of a Number-based Classroom Exercise."](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/testing-the-effectiveness-of-a-numberbased-classroom-exercise/E3F444F2E31340F7E63A833573B65AEC) *PS: Political Science & Politics.* 
 
-
 ## **Under Review**
 
-4\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Rethinking Perceived Threat & Contact:  Misperceptions About the Size of Groups in Society"](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
+4\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf). 
+Revise and resubmit at *Nature Human Behavior.*
+
+
+3\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Rethinking Perceived Threat & Contact:  Misperceptions About the Size of Groups in Society"](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
 - [[YouGov Coverage]](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population) 
 
-3\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions."](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf) 
+2\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions."](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf) 
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
 - [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
 
-2\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. [``How To Think About the Effectiveness of Misinformation Interventions''](https://www.brianguay.com/files/Guay_2022_interventions.pdf)
-
-1\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf)
+1\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. [``How To Think About the Effectiveness of Misinformation Interventions''](https://www.brianguay.com/files/Guay_2022_interventions.pdf)
 
 
 ## **Working Papers** 
