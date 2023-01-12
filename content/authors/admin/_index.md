@@ -24,8 +24,8 @@ bio: Brian Guay is a Postdoctoral Associate at MIT.
 ############################
 
 interests:
-- American Public Opinion
 - Political Psychology
+- American Public Opinion
 - Computational Social Science
 - Political Methodology
 
