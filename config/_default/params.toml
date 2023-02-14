@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Duke University"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Brian Guay. I am a Ph.D. Candidate in the Department of Political Science at Duke University. My research explores how citizens interact with information about politics and form preferences. I am particularly interested in the causes and consequences of political misinformation and misperceptions."
+description = "Brian Guay. I am a postdoctoral fellow in the Department of Political Science & Sloan School of Management at MIT. My research explores how citizens interact with information about politics and form preferences. I am particularly interested in the causes and consequences of political misinformation and misperceptions."
 
 ############################
 ## Site Features
