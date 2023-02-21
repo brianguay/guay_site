@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at [MIT](https://www.mit.edu/) in the [Department of Political Science](https://polisci.mit.edu/) \& [Sloan School of Management](https://mitsloan.mit.edu/). Beginning in September 2023 I will be an Assistant Professor in the Department of Political Science at Stony Brook University. I received my Ph.D. from the Department of Political Science at [Duke University](https://duke.edu/) in 2021, where I was a member of the [Duke Polarization Lab](https://www.polarizationlab.com/) and [Duke Initiative on Survey Methodology](https://dism.duke.edu/). 
+I am a postdoctoral researcher at [MIT](https://www.mit.edu/) in the [Department of Political Science](https://polisci.mit.edu/) \& [Sloan School of Management](https://mitsloan.mit.edu/). Beginning in September 2023 I will be an Assistant Professor in the [Department of Political Science](https://www.stonybrook.edu/polsci/) at [Stony Brook University](https://www.stonybrook.edu). I received my Ph.D. from the Department of Political Science at [Duke University](https://duke.edu/) in 2021, where I was a member of the [Duke Polarization Lab](https://www.polarizationlab.com/) and [Duke Initiative on Survey Methodology](https://dism.duke.edu/). 
 
 My research is at the intersection of political behavior and methodology, with a specific focus on misinformation, polarization, and social media. I draw on theories from cognitive and social psychology and use a wide range of methods, including field experiments, surveys, and natural language processing with social media data. 
 
