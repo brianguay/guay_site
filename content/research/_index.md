@@ -8,7 +8,7 @@ type: "blank"
 
 
 
-8\. **Guay, B.** & Johnston, C. (2021). ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](http://doi.org/10.1111/ajps.12624) *American Journal of Political Science.*   
+8\. **Guay, B.** & Johnston, C. (2021). ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](http://doi.org/10.1111/ajps.12624) *American Journal of Political Science.*    
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1408061603073908736)
 - [[Ungated version]](https://www.brianguay.com/files/GuayJohnston_2021_AJPS.pdf) 
 
