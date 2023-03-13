@@ -12,7 +12,7 @@ type: "blank"
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1408061603073908736)
 - [[Ungated version]](https://www.brianguay.com/files/GuayJohnston_2021_AJPS.pdf) 
 
-7\. **Guay, B.** & Lopez, J. (2021). ["Partisan Bias in Bipartisan Places? A Field Experiment Measuring Attitudes Toward the Presidential Alert."](https://doi.org/10.1093/poq/nfab010) *Public Opinion Quarterly.*
+7\. **Guay, B.** & Lopez, J. (2021). ["Partisan Bias in Bipartisan Places? A Field Experiment Measuring Attitudes Toward the Presidential Alert."](https://doi.org/10.1093/poq/nfab010) *Public Opinion Quarterly.* 
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1430171924190072844)
 - [[Washington Post Monkey Cage coverage]](https://www.washingtonpost.com/news/monkey-cage/wp/2018/10/24/new-data-show-how-americans-really-reacted-to-nationwide-cellphone-alert/) 
 - [[Ungated version]](https://www.brianguay.com/files/GuayLopez_2021_POQ.pdf) 
