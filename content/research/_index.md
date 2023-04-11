@@ -6,6 +6,8 @@ type: "blank"
 
 ## **Publications**
 
+9\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf). 
+Conditionally accepted at *Nature Human Behavior.*
 
 
 8\. **Guay, B.** & Johnston, C. (2021). ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](http://doi.org/10.1111/ajps.12624) *American Journal of Political Science.*        
@@ -35,9 +37,6 @@ type: "blank"
 1\. **Guay, B.**, Chandler, C., Erkulwater, J., and Landy, D. (2016). ["Testing the Effectiveness of a Number-based Classroom Exercise."](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/testing-the-effectiveness-of-a-numberbased-classroom-exercise/E3F444F2E31340F7E63A833573B65AEC) *PS: Political Science & Politics.* 
 
 ## **Under Review**
-
-4\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf). 
-Revise and resubmit at *Nature Human Behavior.*
 
 3\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. [``How To Think About the Effectiveness of Misinformation Interventions''](https://www.brianguay.com/files/Guay_2022_interventions.pdf) Revise and resubmit at *Nature Human Behavior.*
 
