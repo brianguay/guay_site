@@ -4,10 +4,12 @@ summary: "My Research"
 type: "blank"  
 ---
 
-## **Publications**
+## **Peer Reviewed Publications**
 
-9\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf)
+10\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf)
 Conditionally accepted at *Nature Human Behavior.*
+
+9\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. [``How To Think About the Effectiveness of Misinformation Interventions''](https://www.brianguay.com/files/Guay_2022_interventions.pdf) Conditionally accepted at *Nature Human Behavior.*
 
 8\. **Guay, B.** & Johnston, C. (2021). ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](http://doi.org/10.1111/ajps.12624) *American Journal of Political Science.*        
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1408061603073908736)
@@ -31,14 +33,12 @@ Conditionally accepted at *Nature Human Behavior.*
 
 3\. Landy, D., **Guay, B.** & Marghetis, T. (2018). ["Bias and Ignorance in Demographic Perception."](https://link.springer.com/article/10.3758/s13423-017-1360-2) *Psychonomic Bulletin & Review.*
 
+
 2\. Marghetis, T., **Guay, B.**, Karlapudy, A., & Landy, D. (2018). ["The Psychophysics of Society: Uncertain Estimates of Invisible Entities."](https://cogsci.mindmodeling.org/2018/papers/0155/0155.pdf) *Proceedings of the 40th Annual Meeting of the Cognitive Science Society.*
 
 1\. **Guay, B.**, Chandler, C., Erkulwater, J., and Landy, D. (2016). ["Testing the Effectiveness of a Number-based Classroom Exercise."](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/testing-the-effectiveness-of-a-numberbased-classroom-exercise/E3F444F2E31340F7E63A833573B65AEC) *PS: Political Science & Politics.* 
 
 ## **Under Review**
-
-3\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. [``How To Think About the Effectiveness of Misinformation Interventions''](https://www.brianguay.com/files/Guay_2022_interventions.pdf) Revise and resubmit at *Nature Human Behavior.*
-
 
 2\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Rethinking Perceived Threat & Contact:  Misperceptions About the Size of Groups in Society"](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
 - [[YouGov Coverage]](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population) 
