@@ -4,7 +4,7 @@ summary: "My Research"
 type: "blank"  
 ---
 
-## **Peer Reviewed Publications**
+## **Peer Reviewed Publications** 
 
 10\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf)
 Conditionally accepted at *Nature Human Behavior.*
