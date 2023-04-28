@@ -9,7 +9,7 @@ type: "blank"
 10\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf)
 Conditionally accepted at *Nature Human Behavior.*
 
-9\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. [``How To Think About the Effectiveness of Misinformation Interventions''](https://www.brianguay.com/files/Guay_2022_interventions.pdf) Conditionally accepted at *Nature Human Behavior.*
+9\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. ["How To Think About Whether Misinformation Interventions Work."](https://www.brianguay.com/files/Guay_2022_interventions.pdf) Conditionally accepted at *Nature Human Behavior.*
 
 8\. **Guay, B.** & Johnston, C. (2021). ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](http://doi.org/10.1111/ajps.12624) *American Journal of Political Science.*        
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1408061603073908736)
@@ -51,11 +51,11 @@ Conditionally accepted at *Nature Human Behavior.*
 
 ## **Working Papers** 
 
-5\. **Guay, B.** [``Misinformed or Uninformed? The Prevalence and Consequences of Certainty in Political Misperceptions.''](https://www.brianguay.com/files/Guay_2022_misinformed.pdf)
+5\. **Guay, B.** [Misinformed or Uninformed? The Prevalence and Consequences of Certainty in Political Misperceptions."](https://www.brianguay.com/files/Guay_2022_misinformed.pdf)
 
 4\. **Guay, B.** “Numeracy and the Effect of Quantitative Information on Public Opinion”
 
-3\. **Guay, B.**, Berinsky, A., & Rand, D. ``I’m Sure I’m Right But So What?: The Consequences of Excessive Confidence in Political Knowledge.'' (Presented at APSA in 2022)
+3\. **Guay, B.**, Berinsky, A., & Rand, D. "I’m Sure I’m Right But So What?: The Consequences of Excessive Confidence in Political Knowledge." (Presented at APSA in 2022)
 
 2\. **Guay, B.**, Hillygus, D.S., Valentino, N., & Zhirkov, K. "Opportunities and Challenges of Conducting Large-Scale Political Surveys Online." 
 
