@@ -7,9 +7,9 @@ type: "blank"
 ## **Peer Reviewed Publications** 
 
 10\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf)
-Conditionally accepted at *Nature Human Behavior.*
+Forthcoming at *Nature Human Behavior.*
 
-9\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. ["How To Think About Whether Misinformation Interventions Work."](https://www.brianguay.com/files/Guay_2022_interventions.pdf) Conditionally accepted at *Nature Human Behavior.*
+9\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. ["How To Think About Whether Misinformation Interventions Work."](https://www.brianguay.com/files/Guay_2022_interventions.pdf) Forthcoming at *Nature Human Behavior.*
 
 8\. **Guay, B.** & Johnston, C. (2021). ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](http://doi.org/10.1111/ajps.12624) *American Journal of Political Science.*        
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1408061603073908736)
