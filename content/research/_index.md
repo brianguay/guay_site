@@ -6,7 +6,7 @@ type: "blank"
 
 ## **Peer Reviewed Publications** 
 
-10\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. ["How To Think About Whether Misinformation Interventions Work."](https://www.nature.com/articles/s41562-023-01667-w) *Nature Human Behavior.*
+10\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. ["How To Think About Whether Misinformation Interventions Work."](https://www.nature.com/articles/s41562-023-01667-w) *Nature Human Behavior.* 
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1689670653153050625?s=20)
 - [[Ungated version]](https://www.brianguay.com/files/Guay_2022_interventions.pdf)
 
