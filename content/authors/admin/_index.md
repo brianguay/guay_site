@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher, MIT
+role: Assistant Professor, Stony Brook University
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brian Guay is a Postdoctoral Associate at MIT.
+bio: Brian Guay is an Assistant Professor at Stony Brook University
 
 
 ############################
@@ -36,7 +36,7 @@ education:
     year: 2021
   - course: MA in Political Science
     institution: Duke University
-    year: 2018
+    year: 2017
   - course: BA in Psychology, Political Science
     institution: University of Richmond
     year: 2014
