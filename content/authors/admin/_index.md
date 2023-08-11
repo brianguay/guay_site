@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor, Stony Brook University
+role: Assistant Professor, Stony Brook University 
 
 # Organizations/Affiliations
 organizations:
