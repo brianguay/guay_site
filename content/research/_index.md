@@ -59,7 +59,7 @@ Forthcoming at *Nature Human Behavior.*
 
 4\. **Guay, B.**, Berinsky, A., & Rand, D. "I’m Sure I’m Right But So What?: The Consequences of Excessive Confidence in Political Knowledge."
 
-3\. **Guay, B.**, Berinsky, A., Pennycook, G., & Rand, D. ["Polarization Drives Online Sharing of Accurate Information As Much or More Than Misinformation."]([https://www.brianguay.com/research/guay_2023_polarization.pdf](https://www.brianguay.com/files/guay_2023_polarization.pdf))
+3\. **Guay, B.**, Berinsky, A., Pennycook, G., & Rand, D. ["Polarization Drives Online Sharing of Accurate Information As Much or More Than Misinformation."]([https://www.brianguay.com/research/guay_2023_polarization.pdf](https://www.brianguay.com/files/guay_2023_polarization.pdf)
 
 2\. **Guay, B.**, Hillygus, D.S., Valentino, N., & Zhirkov, K. "Opportunities and Challenges of Conducting Large-Scale Political Surveys Online." 
 
