@@ -78,4 +78,4 @@ I am an Assistant Professor in the [Department of Political Science](https://www
 
 My research is at the intersection of political behavior and methodology, with a specific focus on misinformation, polarization, and social media. I draw on theories from cognitive and social psychology and use a wide range of methods, including field experiments, surveys, and natural language processing with social media data. 
 
-My work has been published in the [*American Journal of Political Science*](http://doi.org/10.1111/ajps.12624), [*Proceedings of the National Academy of Sciences*](https://www.pnas.org/content/117/1/243/tab-figures-data), and *Public Opinion Quarterly* [(here](https://doi.org/10.1093/poq/nfab010) and [here](https://doi.org/10.1093/poq/nfaa026)).
+My work has been published in the *American Journal of Political Science*, *Proceedings of the National Academy of Sciences*, and *Nature Human Behavior*. 
