@@ -42,12 +42,14 @@ Forthcoming at *Nature Human Behavior.*
 
 ## **Under Review**
 
-2\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Rethinking Perceived Threat & Contact:  Misperceptions About the Size of Groups in Society"](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
-- [[YouGov Coverage]](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population) 
-
-1\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions."](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf) 
+2\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. Revise and Resubmit at the *Journal of Politics*. ["Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions."](https://www.brianguay.com/files/Guay_2022_fakenewsAsymmetry.pdf) 
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
 - [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
+
+
+1\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Rethinking Perceived Threat & Contact:  Misperceptions About the Size of Groups in Society"](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
+- [[YouGov Coverage]](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population) 
+
 
 
 
