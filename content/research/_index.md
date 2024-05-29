@@ -6,14 +6,14 @@ type: "blank"
 
 ## **Peer Reviewed Publications** 
 
-10\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. ["How To Think About Whether Misinformation Interventions Work."](https://www.nature.com/articles/s41562-023-01667-w) *Nature Human Behavior.* 
+10\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. (2023) ["How To Think About Whether Misinformation Interventions Work."](https://www.nature.com/articles/s41562-023-01667-w) *Nature Human Behavior.* 
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1689670653153050625?s=20)
 - [[Ungated version]](https://www.brianguay.com/files/Guay_2022_interventions.pdf)
 
-9\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. ["Reducing Partisan Animosity Through Anonymous Online Deliberation: A National Field Experiment."](https://www.brianguay.com/files/Guay_2022_discussit.pdf)
+9\. Combs, A., Tierney, G., **Guay, B.**, Merhout, F., Bail, C., Hillygus, D.S., Volfovsky, A. (2023). ["Reducing political polarization in the United States with a mobile chat platform"](https://www.nature.com/articles/s41562-023-01655-0)
 Forthcoming at *Nature Human Behavior.*
 
-8\. **Guay, B.** & Johnston, C. (2021). ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](http://doi.org/10.1111/ajps.12624) *American Journal of Political Science.*        
+8\. **Guay, B.** & Johnston, C. (2022). ["Ideological Asymmetries and the Determinants of Politically Motivated Reasoning."](http://doi.org/10.1111/ajps.12624) *American Journal of Political Science.*        
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1408061603073908736)
 - [[Ungated version]](https://www.brianguay.com/files/GuayJohnston_2021_AJPS.pdf) 
 
@@ -47,8 +47,7 @@ Forthcoming at *Nature Human Behavior.*
 - [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
 
 
-1\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. ["Rethinking Perceived Threat & Contact:  Misperceptions About the Size of Groups in Society"](https://www.brianguay.com/files/Guay_2020_bayesianMisperceptions.pdf)
-- [[YouGov Coverage]](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population) 
+1\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. Understanding Widespread Misperceptions About The Demographic Structure of Society.
 
 
 
