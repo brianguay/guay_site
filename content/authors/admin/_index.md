@@ -24,6 +24,7 @@ bio: Brian Guay is an Assistant Professor at Stony Brook University
 ############################
 
 interests: 
+- Political Behavior
 - Political Psychology
 - American Public Opinion
 - Computational Social Science
