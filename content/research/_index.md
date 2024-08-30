@@ -41,15 +41,12 @@ type: "blank"
 
 ## **Under Review**
 
-2\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. Revise & Resubmit at the [*Journal of Politics*.](https://osf.io/preprints/psyarxiv/y762k). "Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions." 
+2\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. Revise & Resubmit at [*Proceedings of the National Academy of Sciences*.](https://www.brianguay.com/files/guay_2024_misperceptions.pdf) Quirks of Cognition Explain Why We Dramatically
+Overestimate the Size of Minority Groups.
+
+1\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. Revise & Resubmit at the [*Journal of Politics*.](https://osf.io/preprints/psyarxiv/y762k). "Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions." 
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
 - [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
-
-
-1\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. Revise & Resubmit at [*Proceedings of the National Academy of Sciences*.](https://www.brianguay.com/files/guay_2024_misperceptions.pdf) Understanding Widespread Misperceptions About The Demographic Structure of Society.
-
-
-
 
 ## **Working Papers** 
 
