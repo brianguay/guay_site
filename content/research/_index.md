@@ -48,7 +48,8 @@ Overestimate the Size of Minority Groups.
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
 - [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
 
-2\. **Guay, B.**, Berinsky, A., Pennycook, G., & Rand, D. "Polarization Drives Online Sharing of Accurate Information As Much or More Than Misinformation." (Available upon request)
+2\. **Guay, B.**, Berinsky, A., Pennycook, G., & Rand, D. "Reconsidering The Effect of Polarization on
+Sharing Online Misinformation." (Available upon request)
 
 1\. **Guay, B.**, Blum, A., Hanfling, E., Berinsky, A., & Rand, D. "Just Asking Questions?: The Effects of Framing Misinformation as a Question." (Available upon request)
 
