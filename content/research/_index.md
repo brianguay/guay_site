@@ -41,26 +41,27 @@ type: "blank"
 
 ## **Under Review**
 
-2\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. Revise & Resubmit at [*Proceedings of the National Academy of Sciences*.](https://www.brianguay.com/files/guay_2024_misperceptions.pdf) Quirks of Cognition Explain Why We Dramatically
+4\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. Revise & Resubmit at [*Proceedings of the National Academy of Sciences*.](https://www.brianguay.com/files/guay_2024_misperceptions.pdf) Quirks of Cognition Explain Why We Dramatically
 Overestimate the Size of Minority Groups.
 
-1\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. Revise & Resubmit at the [*Journal of Politics*.](https://osf.io/preprints/psyarxiv/y762k). "Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions." 
+3\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. Revise & Resubmit at the [*Journal of Politics*.](https://osf.io/preprints/psyarxiv/y762k). "Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions." 
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
 - [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
 
+2\. **Guay, B.**, Berinsky, A., Pennycook, G., & Rand, D. "Polarization Drives Online Sharing of Accurate Information As Much or More Than Misinformation." (Available upon request)
+
+1\. **Guay, B.**, Blum, A., Hanfling, E., Berinsky, A., & Rand, D. "Just Asking Questions?: The Effects of Framing Misinformation as a Question." (Available upon request)
+
+
+
 ## **Working Papers** 
 
-6\. **Guay, B.** [Misinformed or Uninformed? The Prevalence and Consequences of Certainty in Political Misperceptions."](https://www.brianguay.com/files/Guay_2022_misinformed.pdf)
+3\. **Guay, B.** [Misinformed or Uninformed? The Prevalence and Consequences of Certainty in Political Misperceptions."](https://www.brianguay.com/files/Guay_2022_misinformed.pdf)
 
-5\. **Guay, B.** “Numeracy and the Effect of Quantitative Information on Public Opinion”
+2\. **Guay, B.**, Berinsky, A., & Rand, D. "I’m Sure I’m Right But So What?: The Consequences of Excessive Confidence in Political Knowledge."
 
-4\. **Guay, B.**, Berinsky, A., & Rand, D. "I’m Sure I’m Right But So What?: The Consequences of Excessive Confidence in Political Knowledge."
-
-3\. **Guay, B.**, Berinsky, A., Pennycook, G., & Rand, D. ["Polarization Drives Online Sharing of Accurate Information As Much or More Than Misinformation."](https://www.brianguay.com/files/guay_2023_polarization.pdf)
-
-2\. **Guay, B.**, Hillygus, D.S., Valentino, N., & Zhirkov, K. "Opportunities and Challenges of Conducting Large-Scale Political Surveys Online." 
-
-1\. Chen, H. & **Guay, B.** "Angry Birds: Measuring Affective Polarization On Twitter Using Survey-Matched Tweets. " 
+1\. Jangili, S. (Stony Brook PhD Student), **Guay, B.**, & Stagnaro, N. “Understanding the Link Between Openness and Motivated
+Reasoning.”
 
 
 
