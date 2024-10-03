@@ -60,9 +60,10 @@ Overestimate the Size of Minority Groups.
 
 2\. **Guay, B.**, Berinsky, A., & Rand, D. "I’m Sure I’m Right But So What?: The Consequences of Excessive Confidence in Political Knowledge."
 
-1\. Jangili, S. (Stony Brook PhD Student), **Guay, B.**, & Stagnaro, N. “Understanding the Link Between Openness and Motivated
+1\. Jangili, S.^, **Guay, B.**, & Stagnaro, N. “Understanding the Link Between Openness and Motivated
 Reasoning.”
 
+^ Stony Brook graduate student
 
 
 ## **Other Publications**
