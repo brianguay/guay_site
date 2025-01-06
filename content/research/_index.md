@@ -6,8 +6,7 @@ type: "blank"
 
 ## **Peer Reviewed Publications** 
 
-11\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. Forthcoming at *Proceedings of the National Academy of Sciences*. Quirks of Cognition Explain Why We Dramatically Overestimate the Size of Minority Groups.
-
+11\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. Quirks of Cognition Explain Why We Dramatically Overestimate the Size of Minority Groups. Forthcoming at *Proceedings of the National Academy of Sciences*. 
 
 10\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. (2023) "How To Think About Whether Misinformation Interventions Work." [*Nature Human Behavior.*](https://www.nature.com/articles/s41562-023-01667-w) 
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1689670653153050625?s=20)
