@@ -6,6 +6,10 @@ type: "blank"
 
 ## **Peer Reviewed Publications** 
 
+12\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. "Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions." Conditionally accepted at [*Journal of Politics*.](https://osf.io/preprints/psyarxiv/y762k).
+- [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
+- [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
+
 11\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. Quirks of Cognition Explain Why We Dramatically Overestimate the Size of Minority Groups. Forthcoming at *Proceedings of the National Academy of Sciences*. 
 
 10\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. (2023) "How To Think About Whether Misinformation Interventions Work." [*Nature Human Behavior.*](https://www.nature.com/articles/s41562-023-01667-w) 
@@ -42,10 +46,6 @@ type: "blank"
 1\. **Guay, B.**, Chandler, C., Erkulwater, J., and Landy, D. (2016). "Testing the Effectiveness of a Number-based Classroom Exercise." [*PS: Political Science & Politics.*](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/testing-the-effectiveness-of-a-numberbased-classroom-exercise/E3F444F2E31340F7E63A833573B65AEC)
 
 ## **Under Review**
-
-3\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. Revise & Resubmit at the [*Journal of Politics*.](https://osf.io/preprints/psyarxiv/y762k). "Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions." 
-- [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
-- [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
 
 2\. **Guay, B.**, Berinsky, A., Pennycook, G., & Rand, D. "Reconsidering The Effect of Polarization on
 Sharing Online Misinformation." (Available upon request)
