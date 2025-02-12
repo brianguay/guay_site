@@ -9,7 +9,7 @@ type: "blank"
 12\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. "Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions." Conditionally accepted at the [*Journal of Politics*.](https://osf.io/preprints/psyarxiv/y762k).
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
 - [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
-- 
+
 11\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. Quirks of Cognition Explain Why We Dramatically Overestimate the Size of Minority Groups. Forthcoming at *Proceedings of the National Academy of Sciences*. 
 
 10\. **Guay, B.**, Berinsky, A., Pennycook, G., \& Rand., D. (2023) "How To Think About Whether Misinformation Interventions Work." [*Nature Human Behavior.*](https://www.nature.com/articles/s41562-023-01667-w) 
