@@ -6,7 +6,7 @@ type: "blank"
 
 ## **Peer Reviewed Publications** 
 
-12\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. "Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions." Conditionally accepted at the [*Journal of Politics*.](https://osf.io/preprints/psyarxiv/y762k).
+12\. **Guay, B.**, Berinsky, A., Pennycook, G. & Rand, D. "Examining Partisan Asymmetries in Fake News Sharing and the Efficacy of Accuracy Prompt Interventions." Conditionally accepted at the [*Journal of Politics*.](https://osf.io/preprints/psyarxiv/y762k)
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
 - [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
 
