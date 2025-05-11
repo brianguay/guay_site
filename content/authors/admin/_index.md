@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor in the [Department of Political Science](https://www.stonybrook.edu/polsci/) at [Stony Brook University](https://www.stonybrook.edu). I received my Ph.D. from the Department of Political Science at Duke University in 2021 and was a postdoctoral researcher at MIT from 2021-2023.
+I am an Assistant Professor in the [Department of Political Science](https://www.stonybrook.edu/polsci/) at [Stony Brook University](https://www.stonybrook.edu). In July 2025 I will be an Assistant Professor in the [Department of Political Science](https://politicalscience.unc.edu/) at [UNC Chapel Hill](https://www.unc.edu/). I received my Ph.D. from the Department of Political Science at Duke University in 2021 and was a postdoctoral researcher at MIT from 2021-2023.
 
 My research is at the intersection of political behavior and methodology, with a specific focus on misinformation, polarization, and social media. I draw on theories from cognitive and social psychology and use a wide range of methods, including field experiments, surveys, and natural language processing with social media data. 
 
