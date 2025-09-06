@@ -10,7 +10,7 @@ type: "blank"
 - [[Twitter Thread]](https://twitter.com/BrianMGuay/status/1514617508728254467)
 - [[Washington Post Coverage]](https://www.washingtonpost.com/opinions/2022/05/31/gun-safety-compromise-impossible-gop-disinformation/)
 
-11\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. Quirks of Cognition Explain Why We Dramatically Overestimate the Size of Minority Groups. [[*Proceedings of the National Academy of Sciences*.]](https://www.pnas.org/doi/10.1073/pnas.2413064122)
+11\. **Guay, B.**, Marghetis, T., Wong, C. & Landy, D. Quirks of Cognition Explain Why We Dramatically Overestimate the Size of Minority Groups. [*Proceedings of the National Academy of Sciences*.](https://www.pnas.org/doi/10.1073/pnas.2413064122)
 - [[Twitter Thread]](https://x.com/BrianMGuay/status/1906808925564833950)
 - [[Ungated Version]](https://www.brianguay.com/files/guay_2025_pnas.pdf)
 
